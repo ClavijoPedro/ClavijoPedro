@@ -5,7 +5,7 @@
 
 
 
-<h3 align="left">A passionate Full-stack developer & Industrial Designer from Argentina.</h3>  
+<h3 align="left">A passionate Full-stack developer Designer from Argentina.</h3>  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
