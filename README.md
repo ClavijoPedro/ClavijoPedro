@@ -1,12 +1,10 @@
 
-<h1 align="left">Hi 👋, I'm Pedro</h1>  
 
 
 ![banner](https://user-images.githubusercontent.com/87502452/184948644-0ffba3c9-07d9-49ca-af78-fd318b391ad2.jpg)
 
 
 
-<h3 align="left">A passionate Full-stack developer from Argentina.</h3>  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
